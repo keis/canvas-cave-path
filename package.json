@@ -1,6 +1,6 @@
 {
   "name": "canvas-cave-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "draw cave walls along a path",
   "main": "lib/cave.js",
   "scripts": {
